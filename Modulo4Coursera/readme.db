@@ -1,0 +1,22 @@
+// *******************************
+// COMIENZA AQUÍ SI QUIERES UN PUNTO DE INICIO MÁS DIFÍCIL PARA ESTA TAREA
+// *******************************
+//
+// Módulo 4 Instrucciones de Asignación.
+//
+// La idea de esta tarea es tomar una matriz existente de nombres
+// y luego enviar Hello 'Name' o Good Bye 'Name' a la consola.
+// El programa debe decir "Hola" a cualquier nombre excepto a los que comienzan con "J"
+// o "j", de lo contrario, el programa debe decir "Adiós". Entonces, la salida final
+// en la consola debería verse así:
+/*
+Hola Yaakov
+adios juan
+Adiós Jen
+Adiós Jasón
+hola pablo
+hola franco
+hola larry
+hola paula
+Hola Laura
+adios jim
